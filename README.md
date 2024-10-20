@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![hamsh profile views](https://u8views.com/api/v1/github/profiles/6043214/views/day-week-month-total-count.svg)](https://u8views.com/github/hamedsh)
 -->
-[![Anurag's GitHub stats](https://github-readme-stats-olive-eight-55.vercel.app/api?username=hamedsh)](https://github.com/hamedsh)
+[![Anurag's GitHub stats](https://github-readme-stats-git-master-hamedshs-projects.vercel.app/api?username=hamedsh)](https://github.com/hamedsh)
