@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![hamsh profile views](https://u8views.com/api/v1/github/profiles/6043214/views/day-week-month-total-count.svg)](https://u8views.com/github/hamedsh)
+-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
