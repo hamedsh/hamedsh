@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 [![hamsh profile views](https://u8views.com/api/v1/github/profiles/6043214/views/day-week-month-total-count.svg)](https://u8views.com/github/hamedsh)
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-master-hamedshs-projects.vercel.app/api?username=hamedsh)](https://github.com/hamedsh)
--->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedsh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+-->
+
+[![hamsh profile views](https://u8views.com/api/v1/github/profiles/6043214/views/day-week-month-total-count.svg)](https://u8views.com/github/hamedsh)
